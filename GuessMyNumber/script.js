@@ -3,9 +3,6 @@
 
 // //Za pravljenje emojia: 1.Windows dugme + "."
 
-// document.querySelector('.number').textContent = 14;
-// document.querySelector('.score').textContent = 10;
-
 // document.querySelector('.guess').value = 23;
 
 let secretNumber = Math.trunc(Math.random()*20)+1;
